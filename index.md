@@ -1,5 +1,6 @@
 # DSC180A Methodology 5
 Kevin Chan (kec021@ucsd.edu)
+
 Section A09, Biwei Huang and Jelena Bradic
 1. **Using PC and FCI Causal Discovery Algorithms was the most interesting thing this quarter**
 2. **Combining Causal Inference and Reinforcement learning in some way**
